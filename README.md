@@ -1,5 +1,6 @@
 # SeleniumPractice
 Practice with Selenium Web Driver and POM
+Website: https://testpages.herokuapp.com/styled/index.html
 
 1. test_basic - was successful. 03/02/2022
 2. test_class - was successful. 03/02/2022
